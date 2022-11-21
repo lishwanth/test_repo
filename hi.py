@@ -1,0 +1,3 @@
+# Print "HI"
+
+print("HI")
